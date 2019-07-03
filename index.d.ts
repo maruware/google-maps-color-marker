@@ -1,0 +1,1 @@
+export function getColorMarkerUrl(color: string): string;
